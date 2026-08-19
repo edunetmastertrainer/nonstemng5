@@ -1,0 +1,16 @@
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate,City,PaymentMode
+1001,Rahul Sharma,Laptop,Electronics,1,55000,12/01/2024,Mumbai,Credit Card
+1002,priya patel,Mobile Phone,electronics,2,15000,2024-01-13,Delhi,UPI
+1003,Amit Kumar,Office Chair,Furniture,,4500,15-01-2024,Bangalore,Cash
+1004,Sneha Reddy,Laptop,Electronics,1,55000.00,01/16/2024,bangalore,Credit card
+1005,Rahul Sharma,Mobile Phone,Electronics,1,15000,17/01/2024,Mumbai,UPI
+1006,Vikram Singh,Office Table,Furniture,1,,18-01-2024,Delhi,Cash
+1007,,Headphones,Electronics,3,2000,2024-01-19,Chennai,Debit Card
+1008,Anjali Verma,Office Chair,FURNITURE,2,4500,20/01/2024,Mumbai,UPI
+1009,Amit Kumar,Mobile Phone,Electronics,1,15000,2024/01/21,bangalore,Credit Card
+1010,Sneha Reddy,Laptop,electronics,2,55000,22-01-2024,Bangalore,UPI
+1011,Vikram Singh,Headphones,Electronics,1,2000,23/01/2024,Delhi,cash
+1012,Priya Patel,Office Table,Furniture,1,9999999,24/01/2024,Delhi,UPI
+1013,Rahul Sharma,Office Chair,Furniture,2,4500,25/01/2024,Mumbai,Credit Card
+1014,Anjali Verma,Mobile Phone,Electronics,1,15000,2024-01-26,Mumbai,UPI
+1015,Amit Kumar,Laptop,Electronics,1,55000,27/01/2024,Bangalore,Cash

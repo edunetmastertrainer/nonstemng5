@@ -1,0 +1,19 @@
+StudentID,StudentName,Subject1_Marks,Subject2_Marks,Subject3_Marks,Attendance_Percent,City,Normalized_Average 
+S001,Ananya Joshi,78,82,75,92,Pune,0.2375
+S002,Rohan Mehta,65,,70,88,Mumbai,0.15625
+S003,Kavya Nair,55,60,58,45,Kochi,0.09375
+S004,Arjun Das,90,95,92,97,Kolkata,0.3125
+S005,Ishita Roy,,72,68,80,Delhi,-0.25
+S006,Karan Malhotra,200,85,80,90,Mumbai,1
+S007,Diya Shah,45,50,48,60,Ahmedabad,0.03125
+S008,Aditya Iyer,72,75,-5,85,Chennai,0.2
+S009,Meera Pillai,88,90,86,95,Bangalore,0.3
+S010,Siddharth Rao,60,65,62,78,Hyderabad,0.125
+S011,Tanvi Desai,150,140,145,99,Pune,0.6875
+S012,Rajesh Kumar,40,45,42,55,Lucknow,0
+S013,Neha Gupta,82,,79,89,Delhi,0.2625
+S014,Vivaan Bose,70,72,71,82,Kolkata,0.1875
+S015,Riya Saxena,95,98,5,93,Jaipur,0.34375
+,,,,,,,
+,,,,,,,
+,,85,79.15384615,65.06666667,,,
