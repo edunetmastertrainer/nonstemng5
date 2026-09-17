@@ -1,0 +1,288 @@
+order id,Order Date,City,Cuisine,Gender,Department,Study Hours,Attendance Pct,Screen Time Hrs,Exam Score,Order Amount Paise,Delivery Time Min,Rating,Status,Month,Avg Temp C,Rainfall MM,Humidity Pct,Satisfaction Score
+ORD1206,2024-07-25,Hyderabad,Fast Food,Female,Marketing,5.6,81.5,2.8,69.4,153715,37.0,3.0,Delivered,8,26.6,101.4,60.6,5.0
+ORD1033,2024-02-03,Mumbai,South Indian,Male,Marketing,1.4,84.9,3.2,46.1,75147,41.0,5.0,Pending,10,29.1,82.5,93.4,5.0
+ORD1163,2024-06-12,Mumbai,Fast Food,Male,HR,6.2,51.9,4.3,64.7,176351,43.0,3.6,Delivered,9,31.9,98.6,67.8,1.0
+ORD1078,2024-03-19,Chennai,Italian,Female,HR,1.4,74.2,5.5,35.6,22023,29.0,2.0,Delivered,11,23.5,94.3,80.7,4.0
+ORD1229,2024-08-17,Chennai,Italian,Male,Finance,3.9,66.5,3.0,58.0,185593,32.0,4.1,Delivered,6,27.4,139.4,86.6,4.0
+ORD1025,2024-01-26,Bangalore,South Indian,Female,IT,5.2,55.7,5.3,68.0,124555,37.0,4.4,Delivered,4,21.1,41.2,64.3,3.0
+ORD1009,2024-01-10,Hyderabad,Continental,Male,Marketing,4.8,82.1,2.9,58.5,197558,47.0,3.9,Cancelled,2,30.8,61.5,87.7,4.0
+ORD1063,2024-03-04,Delhi,North Indian,Male,HR,7.3,67.7,1.8,73.9,187823,33.0,3.3,Delivered,6,24.5,13.7,60.2,4.0
+ORD1082,2024-03-23,Hyderabad,Chinese,Male,IT,7.3,92.1,1.5,89.4,84429,33.0,4.2,Delivered,6,27.4,13.0,67.2,4.0
+ORD1167,2024-06-16,Bangalore,North Indian,Female,Operations,5.9,69.9,2.9,74.6,180381,22.0,4.6,Delivered,2,22.4,139.5,83.7,4.0
+ORD1193,2024-07-12,Delhi,South Indian,Male,Unknown,4.0,87.2,3.0,66.3,151234,36.0,4.2,Pending,6,21.4,113.3,81.3,4.0
+ORD1157,2024-06-06,Hyderabad,Fast Food,Male,Operations,3.3,69.2,3.9,54.5,114788,21.0,3.6,Delivered,9,27.7,84.9,80.4,4.0
+ORD1060,2024-03-01,Delhi,South Indian,Male,Operations,5.0,70.2,2.2,68.6,109464,37.0,2.7,Pending,5,29.2,69.0,60.6,5.0
+ORD1145,2024-05-25,Chennai,Italian,Male,Marketing,7.3,90.2,2.0,86.0,66850,35.0,3.9,Delivered,11,36.4,139.4,62.3,1.0
+ORD1198,2024-07-17,Hyderabad,North Indian,Female,Finance,1.7,91.5,2.7,53.6,183663,48.0,5.0,Delivered,5,29.8,89.8,79.5,4.0
+ORD1213,2024-08-01,Delhi,Continental,Female,Finance,7.4,74.6,3.2,82.3,122304,27.0,4.1,Delivered,9,20.6,28.1,62.4,5.0
+ORD1279,2024-10-06,Bangalore,Fast Food,Male,Marketing,6.6,68.8,4.8,70.6,90202,41.0,3.6,Cancelled,1,26.9,20.1,72.7,4.0
+ORD1042,2024-02-12,Chennai,Fast Food,Female,IT,3.8,91.1,3.4,60.0,187807,26.0,3.6,Delivered,4,24.1,78.5,56.5,4.0
+ORD1005,2024-01-06,Delhi,Chinese,Female,Operations,6.8,86.8,4.0,78.1,75731,28.0,2.9,Cancelled,4,27.5,4.4,85.4,4.0
+ORD1239,2024-08-27,Hyderabad,North Indian,Female,Operations,5.0,55.5,3.7,64.8,157660,48.0,4.2,Cancelled,10,25.9,74.9,54.9,5.0
+ORD1227,2024-08-15,Delhi,Chinese,Male,Finance,5.2,92.6,3.9,72.8,169817,40.0,3.7,Delivered,11,21.7,74.4,74.9,4.0
+ORD1164,2024-06-13,Bangalore,South Indian,Male,Marketing,5.0,74.0,6.0,60.6,128899,15.0,3.5,Delivered,5,24.8,26.1,61.9,3.0
+ORD1295,2024-10-22,Hyderabad,Chinese,Female,Finance,7.9,88.5,4.0,92.9,162055,36.0,3.2,Delivered,7,26.8,87.7,61.5,4.0
+ORD1274,2024-10-01,Bangalore,South Indian,Female,Finance,1.5,59.7,4.8,36.5,163996,37.0,4.8,Delivered,6,22.7,113.7,76.3,4.0
+ORD1119,2024-04-29,Delhi,South Indian,Female,HR,6.6,52.2,4.9,63.0,48854,58.0,3.2,Delivered,8,28.5,139.0,90.6,1.0
+ORD1299,2024-10-26,Mumbai,Fast Food,Male,IT,7.6,53.7,3.9,64.3,166011,42.0,5.0,Delivered,4,28.2,41.3,54.1,3.0
+ORD1076,2024-03-17,Mumbai,Continental,Male,IT,1.4,97.7,4.8,50.4,93445,44.0,5.0,Pending,5,23.6,114.5,61.0,5.0
+ORD1148,2024-05-28,Delhi,South Indian,Male,IT,4.1,86.9,5.8,59.9,157469,36.0,4.2,Delivered,7,26.5,111.3,92.5,4.0
+ORD1088,2024-03-29,Chennai,Italian,Female,Marketing,6.1,67.2,4.9,71.6,88099,22.0,3.9,Cancelled,11,27.5,66.8,70.7,5.0
+ORD1152,2024-06-01,Mumbai,Chinese,Female,Operations,4.7,70.9,4.7,62.0,43284,15.0,3.0,Delivered,7,27.8,80.3,86.2,4.0
+ORD1057,2024-02-27,Delhi,Italian,Male,IT,6.2,74.7,1.0,72.0,165016,45.0,4.7,Delivered,7,22.4,130.8,72.0,3.0
+ORD1275,2024-10-02,Bangalore,Fast Food,Male,Finance,6.3,54.2,1.5,74.2,89286,48.0,3.8,Delivered,7,25.2,48.6,82.0,4.0
+ORD1280,2024-10-07,Delhi,North Indian,Male,IT,7.9,50.5,5.6,74.7,68777,42.0,3.8,Cancelled,11,30.2,77.5,69.4,5.0
+ORD1297,2024-10-24,Bangalore,North Indian,Female,HR,6.6,73.7,3.2,70.3,116334,55.0,2.8,Delivered,5,17.9,100.5,80.9,5.0
+ORD1113,2024-04-23,Bangalore,Continental,Male,Operations,1.6,99.0,4.9,42.6,188933,29.0,4.1,Delivered,4,24.4,89.4,88.9,3.0
+ORD1003,2024-01-04,Hyderabad,Italian,Male,IT,5.2,54.3,3.2,68.2,84028,55.0,3.7,Delivered,12,22.5,17.5,88.4,5.0
+ORD1111,2024-04-21,Bangalore,Continental,Female,Operations,2.4,86.2,5.7,51.3,82539,29.0,3.4,Delivered,5,26.8,69.9,67.8,3.0
+ORD1219,2024-08-07,Mumbai,South Indian,Female,IT,3.3,51.7,1.6,48.9,199402,33.0,3.9,Delivered,4,27.3,118.3,78.8,4.0
+ORD1104,2024-04-14,Mumbai,South Indian,Female,Finance,7.5,84.5,1.6,78.7,129458,27.0,3.7,Delivered,11,26.6,117.2,54.8,5.0
+ORD1084,2024-03-25,Mumbai,Continental,Male,Operations,7.4,97.8,1.1,93.9,53848,38.0,3.3,Delivered,11,27.9,86.9,72.4,1.0
+ORD1077,2024-03-18,Chennai,Fast Food,Male,IT,6.9,56.8,5.8,58.1,123892,31.0,4.4,Delivered,8,29.2,52.0,68.5,4.0
+ORD1046,2024-02-16,Delhi,Italian,Male,Marketing,4.9,53.4,1.5,74.2,182728,30.0,4.1,Delivered,7,26.2,66.3,85.2,4.0
+ORD1045,2024-02-15,Mumbai,North Indian,Female,Marketing,2.3,74.9,2.0,51.6,96865,38.0,4.5,Cancelled,2,26.3,16.4,53.4,4.0
+ORD1017,2024-01-18,Hyderabad,South Indian,Female,Operations,4.4,91.5,5.3,61.5,86912,28.0,4.1,Delivered,1,28.0,115.5,67.0,5.0
+ORD1180,2024-06-29,Mumbai,Continental,Male,Operations,4.8,52.3,1.5,57.7,188123,43.0,4.2,Delivered,11,27.8,33.2,70.9,5.0
+ORD1183,2024-07-02,Delhi,Italian,Female,IT,6.4,56.2,3.9,66.0,87155,25.0,4.3,Delivered,9,28.1,117.5,55.3,3.0
+ORD1140,2024-05-20,Mumbai,Italian,Male,Marketing,3.2,94.2,3.5,61.3,165544,31.0,4.1,Pending,8,27.1,155.1,59.0,5.0
+ORD1024,2024-01-25,Mumbai,South Indian,Female,Finance,1.6,89.0,1.7,54.2,156998,23.0,4.4,Delivered,9,26.2,102.9,68.5,5.0
+ORD1073,2024-03-14,Delhi,Fast Food,Female,Marketing,7.0,80.5,5.9,67.4,133175,38.0,4.1,Delivered,4,24.3,102.4,52.5,5.0
+ORD1204,2024-07-23,Chennai,Chinese,Male,Finance,6.5,91.3,5.7,64.3,116044,40.0,4.3,Delivered,2,30.9,88.8,59.8,3.0
+ORD1090,2024-03-31,Bangalore,North Indian,Female,HR,6.0,70.6,1.4,64.9,89122,25.0,4.3,Delivered,10,26.1,109.7,90.5,5.0
+ORD1116,2024-04-26,Delhi,Continental,Male,Operations,1.8,84.7,4.3,46.5,161330,31.0,3.4,Delivered,6,25.8,68.8,91.0,5.0
+ORD1007,2024-01-08,Bangalore,North Indian,Female,Finance,3.4,56.1,1.3,47.7,199761,20.0,5.0,Delivered,3,23.9,25.6,50.1,2.0
+ORD1292,2024-10-19,Mumbai,Continental,Female,Operations,4.9,88.5,3.8,78.0,98707,29.0,4.1,Delivered,9,32.4,40.4,82.8,4.0
+ORD1184,2024-07-03,Delhi,South Indian,Male,IT,1.1,97.8,4.3,38.9,165047,43.0,4.7,Delivered,10,28.7,135.1,52.0,4.0
+ORD1269,2024-09-26,Chennai,Continental,Female,HR,4.4,95.4,1.8,73.9,88673,43.0,4.2,Delivered,4,27.9,80.4,90.5,2.0
+ORD1173,2024-06-22,Chennai,Fast Food,Male,Operations,6.3,73.4,4.0,66.0,88920,45.0,3.3,Delivered,12,28.9,107.1,71.2,4.0
+ORD1296,2024-10-23,Hyderabad,Continental,Female,Marketing,5.2,85.4,3.7,74.0,116468,31.0,3.5,Delivered,3,30.0,96.0,92.9,5.0
+ORD1221,2024-08-09,Mumbai,Italian,Male,IT,2.6,93.0,1.3,53.4,85428,36.0,3.8,Delivered,12,33.1,129.4,52.3,5.0
+ORD1132,2024-05-12,Chennai,Fast Food,Male,IT,6.8,52.7,5.4,59.0,196325,24.0,3.9,Delivered,10,32.9,138.3,51.8,4.0
+ORD1155,2024-06-04,Mumbai,Continental,Female,HR,4.8,50.0,3.7,52.7,150349,30.0,3.9,Delivered,9,25.2,82.5,83.9,1.0
+ORD1094,2024-04-04,Mumbai,South Indian,Male,Unknown,2.4,53.8,5.1,45.5,174297,31.0,3.9,Delivered,12,32.0,26.2,53.3,4.0
+ORD1245,2024-09-02,Bangalore,Fast Food,Male,Operations,2.5,95.3,1.8,58.3,111006,39.0,3.7,Delivered,2,23.2,71.3,50.7,3.0
+ORD1075,2024-03-16,Delhi,Fast Food,Male,Finance,6.6,69.8,4.3,64.2,43705,40.0,3.7,Delivered,7,24.4,95.4,69.4,5.0
+ORD1147,2024-05-27,Bangalore,Fast Food,Female,Unknown,4.8,83.1,1.9,72.3,113808,20.0,3.6,Delivered,11,28.5,88.7,91.1,5.0
+ORD1233,2024-08-21,Chennai,Fast Food,Male,Unknown,4.4,62.6,2.6,59.8,38322,25.0,2.7,Delivered,2,31.0,88.8,76.8,5.0
+ORD1262,2024-09-19,Hyderabad,North Indian,Male,Finance,3.6,94.1,5.6,54.2,89184,61.0,3.1,Delivered,12,29.3,160.7,51.4,4.0
+ORD1208,2024-07-27,Chennai,Continental,Female,Unknown,3.6,75.9,4.0,54.2,38681,41.0,3.8,Delivered,9,28.4,98.6,94.1,5.0
+ORD1114,2024-04-24,Mumbai,Continental,Male,Operations,2.0,95.2,4.1,57.6,33428,42.0,4.2,Cancelled,10,23.4,72.9,85.0,4.0
+ORD1143,2024-05-23,Chennai,South Indian,Male,Operations,4.2,70.2,2.1,67.2,159401,26.0,5.0,Delivered,2,30.8,116.3,66.5,4.0
+ORD1211,2024-07-30,Chennai,Fast Food,Male,Operations,1.7,63.0,4.9,45.1,67299,51.0,4.2,Delivered,11,22.7,90.9,79.0,5.0
+ORD1232,2024-08-20,Chennai,Italian,Male,HR,4.3,64.1,1.1,64.2,46928,39.0,5.0,Delivered,8,28.6,147.5,85.5,5.0
+ORD1261,2024-09-18,Bangalore,Continental,Male,Finance,5.4,59.5,5.0,59.4,70669,38.0,3.9,Delivered,3,25.5,24.0,79.0,5.0
+ORD1059,2024-02-29,Delhi,Italian,Female,Marketing,5.1,91.9,4.0,73.6,60372,32.0,3.6,Delivered,9,22.0,53.9,77.8,5.0
+ORD1109,2024-04-19,Bangalore,North Indian,Female,IT,4.8,81.9,2.5,58.4,98229,33.0,4.0,Delivered,6,24.7,120.8,51.0,4.0
+ORD1006,2024-01-07,Bangalore,Fast Food,Female,HR,3.4,92.4,2.9,61.8,175930,27.0,3.9,Cancelled,4,23.5,178.3,62.0,5.0
+ORD1022,2024-01-23,Chennai,South Indian,Male,IT,1.0,61.0,4.9,31.2,101942,15.0,3.3,Delivered,10,29.4,119.9,67.2,2.0
+ORD1267,2024-09-24,Mumbai,Italian,Female,IT,4.7,91.0,3.9,69.6,34357,45.0,3.9,Delivered,8,31.2,73.5,82.1,5.0
+ORD1056,2024-02-26,Chennai,South Indian,Male,HR,5.1,81.7,3.3,72.9,135725,36.0,4.5,Delivered,2,28.0,97.1,89.9,4.0
+ORD1255,2024-09-12,Bangalore,Fast Food,Female,Unknown,3.2,58.0,1.1,59.4,38474,15.0,3.1,Delivered,4,22.0,69.1,60.0,5.0
+ORD1199,2024-07-18,Chennai,Fast Food,Female,IT,2.8,56.0,3.2,49.9,160905,48.0,4.1,Delivered,4,33.5,68.1,87.5,5.0
+ORD1249,2024-09-06,Bangalore,Fast Food,Female,IT,4.2,93.2,2.2,70.6,39446,31.0,3.7,Cancelled,4,23.3,94.5,55.1,4.0
+ORD1182,2024-07-01,Mumbai,Fast Food,Female,Operations,3.9,69.6,4.0,63.5,158782,46.0,4.0,Delivered,11,21.4,174.3,79.2,4.0
+ORD1253,2024-09-10,Bangalore,Continental,Female,IT,2.3,62.3,5.9,39.6,158593,46.0,4.3,Delivered,2,25.9,45.5,76.7,1.0
+ORD1294,2024-10-21,Chennai,Italian,Female,IT,6.6,58.3,3.7,70.6,25774,28.0,4.1,Delivered,3,25.3,36.5,64.1,2.0
+ORD1144,2024-05-24,Chennai,South Indian,Female,Operations,6.0,78.6,3.1,59.8,185937,39.0,3.2,Delivered,3,32.1,59.8,72.6,4.0
+ORD1176,2024-06-25,Bangalore,North Indian,Male,Operations,3.7,85.8,3.6,51.5,145736,50.0,4.2,Delivered,9,18.6,16.1,64.8,4.0
+ORD1101,2024-04-11,Mumbai,Continental,Female,Unknown,6.4,90.4,1.2,86.5,36029,56.0,3.9,Delivered,12,27.8,104.5,63.6,4.0
+ORD1256,2024-09-13,Mumbai,North Indian,Female,Operations,3.8,66.7,2.2,63.6,197832,36.0,4.2,Cancelled,5,30.7,106.0,77.7,4.0
+ORD1066,2024-03-07,Delhi,Italian,Male,Finance,4.5,54.5,4.0,53.9,32087,24.0,3.9,Delivered,12,26.9,127.7,84.2,3.0
+ORD1126,2024-05-06,Hyderabad,Fast Food,Female,Operations,2.4,86.6,4.3,52.9,176123,23.0,3.9,Delivered,4,30.0,47.2,84.0,4.0
+ORD1018,2024-01-19,Mumbai,Chinese,Male,HR,5.8,67.3,3.6,60.9,28706,27.0,3.9,Delivered,2,32.7,45.2,92.0,4.0
+ORD1179,2024-06-28,Mumbai,Fast Food,Male,IT,4.5,95.5,3.2,58.2,27531,43.0,5.0,Delivered,2,21.4,131.0,78.6,4.0
+ORD1195,2024-07-14,Bangalore,Italian,Female,IT,5.3,70.1,2.2,63.9,39675,26.0,3.9,Delivered,1,28.1,81.9,76.4,4.0
+ORD1019,2024-01-20,Chennai,Italian,Male,IT,4.6,88.7,5.1,70.7,28894,44.0,3.8,Delivered,4,27.7,90.2,89.1,4.0
+ORD1154,2024-06-03,Bangalore,North Indian,Male,Unknown,2.6,99.5,3.5,55.3,45122,58.0,3.9,Delivered,8,24.4,112.6,53.4,2.0
+ORD1092,2024-04-02,Bangalore,Fast Food,Female,IT,4.3,79.9,5.4,63.8,68868,48.0,4.4,Delivered,3,24.0,16.5,62.9,2.0
+ORD1079,2024-03-20,Chennai,Continental,Female,Unknown,1.1,63.5,4.6,44.9,139654,23.0,5.0,Delivered,6,27.7,100.4,58.1,5.0
+ORD1225,2024-08-13,Mumbai,Continental,Male,Marketing,2.4,73.8,1.4,55.5,173741,15.0,3.3,Pending,5,27.6,38.3,59.2,4.0
+ORD1228,2024-08-16,Bangalore,North Indian,Male,Marketing,1.8,51.8,4.4,41.6,48228,34.0,3.9,Delivered,11,27.0,87.9,76.4,5.0
+ORD1072,2024-03-13,Hyderabad,Continental,Male,Marketing,4.4,86.1,3.0,68.0,38313,30.0,4.3,Delivered,2,25.5,39.3,64.6,4.0
+ORD1096,2024-04-06,Hyderabad,South Indian,Female,IT,6.0,50.1,2.6,62.2,26643,31.0,4.1,Delivered,3,28.4,55.9,94.4,5.0
+ORD1015,2024-01-16,Delhi,South Indian,Male,Unknown,3.3,68.2,5.7,48.3,47044,30.0,3.0,Delivered,7,24.0,61.2,65.0,5.0
+ORD1010,2024-01-11,Chennai,Continental,Male,Operations,4.7,85.2,5.1,67.7,40567,15.0,4.8,Cancelled,11,30.3,30.6,76.1,4.0
+ORD1175,2024-06-24,Delhi,North Indian,Female,IT,4.8,92.6,2.9,67.5,62821,29.0,3.2,Delivered,5,25.9,33.2,92.4,5.0
+ORD1124,2024-05-04,Mumbai,Continental,Male,IT,7.5,65.6,4.6,73.3,152723,39.0,3.7,Delivered,5,32.9,44.6,58.6,3.0
+ORD1097,2024-04-07,Delhi,Continental,Female,Finance,2.4,98.4,5.9,52.1,56727,34.0,3.7,Delivered,8,24.2,120.0,63.5,5.0
+ORD1068,2024-03-09,Chennai,Chinese,Male,Finance,7.5,53.4,5.9,61.7,102617,51.0,3.5,Delivered,1,32.0,72.0,54.5,3.0
+ORD1246,2024-09-03,Chennai,North Indian,Male,Operations,2.5,78.6,1.9,50.8,166424,17.0,2.7,Delivered,12,32.2,50.5,61.9,5.0
+ORD1037,2024-02-07,Hyderabad,North Indian,Male,Finance,6.9,71.1,4.7,74.9,115081,30.0,3.9,Delivered,12,29.2,59.6,54.5,4.0
+ORD1016,2024-01-17,Chennai,Italian,Female,IT,1.6,51.7,1.5,45.7,87260,32.0,4.7,Delivered,1,33.0,77.7,84.3,1.0
+ORD1055,2024-02-25,Mumbai,North Indian,Male,Unknown,4.4,62.5,1.9,62.2,46832,29.0,3.7,Cancelled,9,29.6,147.3,78.2,3.0
+ORD1223,2024-08-11,Chennai,Fast Food,Female,Marketing,3.7,69.6,2.1,57.9,153611,40.0,3.4,Pending,4,30.7,100.6,94.5,5.0
+ORD1284,2024-10-11,Mumbai,Continental,Male,Marketing,4.9,50.9,2.6,60.0,30800,33.0,3.9,Delivered,1,28.6,90.7,89.5,5.0
+ORD1067,2024-03-08,Delhi,Italian,Female,Operations,3.3,88.5,3.2,64.4,174834,55.0,4.6,Delivered,2,27.1,92.6,81.7,3.0
+ORD1118,2024-04-28,Mumbai,Fast Food,Male,IT,5.2,83.5,4.0,62.7,25469,41.0,4.1,Delivered,11,25.2,82.5,87.5,4.0
+ORD1172,2024-06-21,Delhi,Continental,Male,IT,4.5,50.2,3.0,56.3,22839,37.0,2.5,Delivered,1,26.6,33.4,80.4,4.0
+ORD1069,2024-03-10,Chennai,Fast Food,Female,HR,1.1,91.9,1.7,50.5,120483,40.0,2.8,Delivered,11,30.9,67.2,57.5,3.0
+ORD1031,2024-02-01,Chennai,Italian,Male,Unknown,4.7,75.6,5.8,55.9,61321,32.0,4.5,Delivered,4,31.0,122.0,79.3,3.0
+ORD1203,2024-07-22,Mumbai,Continental,Female,Unknown,7.4,97.9,3.9,91.7,61800,35.0,4.2,Delivered,2,29.9,28.4,81.1,4.0
+ORD1165,2024-06-14,Delhi,Chinese,Male,Finance,8.0,79.0,2.4,85.3,46201,21.0,3.6,Delivered,11,24.9,51.7,55.6,5.0
+ORD1247,2024-09-04,Mumbai,Fast Food,Male,Marketing,4.6,83.1,4.7,61.8,149350,20.0,3.9,Delivered,11,30.5,99.2,55.7,5.0
+ORD1125,2024-05-05,Chennai,Italian,Male,IT,7.9,56.0,4.0,73.2,104730,49.0,4.6,Pending,3,29.2,68.4,61.3,1.0
+ORD1177,2024-06-26,Mumbai,South Indian,Male,HR,4.2,79.5,3.1,68.1,164565,28.0,2.9,Pending,3,27.3,139.7,77.5,5.0
+ORD1086,2024-03-27,Mumbai,Fast Food,Female,Marketing,7.8,81.2,2.1,82.2,166451,31.0,4.2,Delivered,12,27.6,104.6,60.4,4.0
+ORD1265,2024-09-22,Mumbai,South Indian,Female,Marketing,3.1,94.0,5.1,55.0,146468,28.0,3.9,Delivered,8,24.6,83.2,69.2,2.0
+ORD1197,2024-07-16,Mumbai,Chinese,Male,Operations,2.0,61.5,3.2,37.9,168087,50.0,5.0,Delivered,6,31.4,111.7,89.8,4.0
+ORD1266,2024-09-23,Chennai,South Indian,Male,Marketing,6.0,50.3,4.3,61.4,103457,31.0,4.0,Delivered,4,30.2,24.5,54.9,4.0
+ORD1137,2024-05-17,Delhi,Continental,Female,Finance,2.6,68.2,4.3,46.7,181326,32.0,4.2,Delivered,4,20.7,132.6,90.9,1.0
+ORD1226,2024-08-14,Delhi,North Indian,Male,HR,6.5,52.2,1.5,76.1,171716,50.0,4.1,Delivered,7,25.4,72.7,87.3,3.0
+ORD1139,2024-05-19,Hyderabad,North Indian,Male,Marketing,7.4,74.1,3.7,77.7,136859,46.0,3.7,Cancelled,9,29.8,26.2,68.7,2.0
+ORD1202,2024-07-21,Mumbai,South Indian,Male,IT,1.7,51.8,3.2,32.0,69733,24.0,3.3,Delivered,10,27.3,93.7,62.6,5.0
+ORD1146,2024-05-26,Chennai,Continental,Female,IT,5.4,76.9,5.2,75.0,74220,29.0,3.9,Delivered,3,26.7,88.5,57.4,3.0
+ORD1244,2024-09-01,Bangalore,Chinese,Male,Unknown,2.9,75.8,4.7,54.8,175331,35.0,4.2,Delivered,1,25.3,124.2,76.5,3.0
+ORD1129,2024-05-09,Hyderabad,Italian,Female,IT,6.1,71.1,2.6,84.1,53787,20.0,4.0,Cancelled,9,32.6,143.5,56.2,5.0
+ORD1038,2024-02-08,Mumbai,Continental,Female,Finance,6.2,56.6,2.0,73.9,142721,24.0,4.1,Delivered,7,28.7,60.6,88.0,5.0
+ORD1127,2024-05-07,Chennai,Continental,Female,IT,3.7,59.6,3.4,54.0,47386,43.0,3.2,Pending,12,29.0,89.8,84.5,3.0
+ORD1186,2024-07-05,Hyderabad,Chinese,Male,IT,5.0,62.9,4.3,53.1,65603,43.0,2.7,Delivered,3,27.2,57.9,94.8,5.0
+ORD1112,2024-04-22,Hyderabad,North Indian,Male,Marketing,5.8,81.9,4.1,68.5,172889,43.0,3.2,Delivered,2,27.2,17.6,50.4,2.0
+ORD1185,2024-07-04,Chennai,Continental,Male,Marketing,5.2,89.9,1.5,78.6,82424,40.0,3.9,Delivered,4,28.0,119.6,51.7,5.0
+ORD1117,2024-04-27,Bangalore,Chinese,Female,HR,4.3,52.6,3.8,54.9,77775,43.0,3.2,Delivered,4,23.9,119.2,83.5,4.0
+ORD1291,2024-10-18,Mumbai,Continental,Female,IT,7.2,58.7,4.0,74.6,181645,51.0,3.6,Delivered,4,30.8,140.4,67.9,4.0
+ORD1285,2024-10-12,Hyderabad,South Indian,Male,IT,2.8,71.6,5.3,45.8,57823,49.0,4.0,Cancelled,7,27.8,63.5,74.8,5.0
+ORD1181,2024-06-30,Bangalore,Continental,Male,IT,4.4,55.5,3.0,53.0,158808,23.0,5.0,Delivered,5,22.0,102.4,81.5,4.0
+ORD1194,2024-07-13,Chennai,South Indian,Female,Marketing,3.0,53.2,2.2,44.9,185814,18.0,3.3,Delivered,8,31.6,69.9,74.3,5.0
+ORD1196,2024-07-15,Bangalore,South Indian,Male,HR,7.4,91.9,5.4,82.6,93997,30.0,4.4,Delivered,2,20.4,72.3,82.7,4.0
+ORD1002,2024-01-03,Bangalore,North Indian,Male,Unknown,7.8,66.2,4.4,76.9,164129,53.0,2.5,Cancelled,1,26.1,45.1,84.8,3.0
+ORD1115,2024-04-25,Hyderabad,Italian,Male,Operations,1.0,82.3,3.4,41.4,195006,50.0,3.5,Delivered,12,33.2,82.4,93.8,4.0
+ORD1158,2024-06-07,Mumbai,South Indian,Male,Operations,6.1,96.6,1.1,83.0,82812,60.0,4.4,Delivered,1,29.5,109.8,80.3,4.0
+ORD1120,2024-04-30,Delhi,Chinese,Female,Operations,1.7,79.4,3.4,50.5,157328,30.0,5.0,Delivered,7,23.6,45.5,84.9,4.0
+ORD1231,2024-08-19,Mumbai,North Indian,Female,Finance,7.5,86.8,4.4,80.7,117239,66.0,3.9,Delivered,9,25.1,39.1,84.8,2.0
+ORD1272,2024-09-29,Mumbai,Chinese,Male,Operations,1.7,87.8,5.3,44.8,116111,24.0,3.5,Pending,11,29.5,102.4,55.7,5.0
+ORD1074,2024-03-15,Hyderabad,Fast Food,Male,Unknown,1.6,97.5,4.6,52.3,134914,26.0,4.7,Delivered,2,33.4,45.3,66.1,4.0
+ORD1029,2024-01-30,Chennai,North Indian,Female,Operations,2.7,59.1,5.5,46.8,180878,37.0,4.7,Delivered,9,31.8,71.5,94.5,4.0
+ORD1083,2024-03-24,Hyderabad,Fast Food,Male,IT,5.0,92.3,3.9,74.9,124195,38.0,2.6,Pending,4,34.3,20.2,80.7,4.0
+ORD1260,2024-09-17,Delhi,Fast Food,Male,Finance,4.3,84.9,1.6,71.8,106544,24.0,4.1,Delivered,9,20.2,129.4,63.6,1.0
+ORD1107,2024-04-17,Chennai,Italian,Male,Operations,3.6,97.9,4.1,62.3,157069,32.0,3.9,Delivered,4,28.4,77.3,63.3,4.0
+ORD1168,2024-06-17,Mumbai,North Indian,Male,Finance,6.5,54.6,3.3,67.5,166150,29.0,3.7,Pending,5,28.7,96.0,61.8,3.0
+ORD1258,2024-09-15,Delhi,Chinese,Female,IT,6.6,96.5,5.3,73.0,64629,26.0,3.7,Delivered,8,28.2,131.4,90.9,2.0
+ORD1133,2024-05-13,Hyderabad,Continental,Female,IT,6.3,72.8,3.2,64.6,54051,34.0,4.8,Delivered,7,34.2,61.4,85.5,4.0
+ORD1209,2024-07-28,Chennai,Continental,Female,Finance,1.5,79.9,2.8,41.1,123864,44.0,4.1,Delivered,3,26.8,105.3,66.5,5.0
+ORD1237,2024-08-25,Chennai,Chinese,Female,Finance,7.4,76.6,3.6,75.6,62891,38.0,4.3,Cancelled,6,25.2,55.3,74.3,5.0
+ORD1290,2024-10-17,Bangalore,South Indian,Male,IT,5.0,89.4,4.2,65.7,29283,52.0,4.6,Delivered,4,23.1,63.7,87.2,4.0
+ORD1065,2024-03-06,Chennai,South Indian,Male,Finance,2.7,59.2,2.6,44.8,25110,41.0,3.6,Delivered,4,29.2,30.5,94.0,3.0
+ORD1218,2024-08-06,Mumbai,Fast Food,Female,Operations,6.9,87.4,5.9,74.2,158999,28.0,4.1,Delivered,7,30.1,66.5,59.5,3.0
+ORD1085,2024-03-26,Mumbai,South Indian,Female,Finance,1.0,57.7,3.4,34.1,188876,42.0,4.9,Delivered,5,26.3,35.8,76.2,5.0
+ORD1234,2024-08-22,Mumbai,North Indian,Male,Operations,7.4,50.3,5.9,68.3,107896,33.0,3.8,Delivered,4,25.6,102.7,62.5,5.0
+ORD1159,2024-06-08,Bangalore,North Indian,Male,Operations,5.9,53.5,3.0,68.0,27999,28.0,3.1,Delivered,11,21.8,73.4,67.9,4.0
+ORD1012,2024-01-13,Hyderabad,Chinese,Female,Operations,7.3,81.2,1.0,89.4,77804,34.0,3.7,Delivered,9,22.0,116.6,88.9,5.0
+ORD1035,2024-02-05,Hyderabad,Chinese,Male,IT,1.9,60.9,2.6,50.0,58787,29.0,3.6,Delivered,1,26.2,156.5,93.4,5.0
+ORD1028,2024-01-29,Chennai,North Indian,Female,Operations,7.5,73.6,4.7,89.0,121604,60.0,4.8,Cancelled,12,34.6,107.2,67.2,4.0
+ORD1170,2024-06-19,Mumbai,Chinese,Female,Finance,2.4,76.1,2.2,43.9,137666,36.0,3.0,Pending,3,29.5,80.6,78.7,3.0
+ORD1142,2024-05-22,Chennai,Continental,Female,Operations,5.8,72.1,3.0,59.5,140312,26.0,3.6,Delivered,1,33.3,69.2,89.4,5.0
+ORD1210,2024-07-29,Bangalore,North Indian,Male,IT,1.5,76.3,3.7,45.4,166964,15.0,4.6,Delivered,3,26.1,88.8,90.6,4.0
+ORD1131,2024-05-11,Hyderabad,Italian,Male,Unknown,6.5,87.3,4.7,72.8,97984,52.0,4.7,Delivered,12,30.8,140.4,78.2,5.0
+ORD1051,2024-02-21,Chennai,South Indian,Female,Operations,3.4,57.0,5.0,41.1,128777,31.0,4.0,Delivered,5,32.1,36.4,64.8,5.0
+ORD1095,2024-04-05,Bangalore,Continental,Female,Marketing,7.8,53.9,2.8,75.3,115286,35.0,5.0,Delivered,4,25.3,54.8,92.5,5.0
+ORD1178,2024-06-27,Hyderabad,Chinese,Male,Unknown,5.2,63.9,1.3,72.5,37069,38.0,5.0,Delivered,9,25.2,64.4,79.1,3.0
+ORD1242,2024-08-30,Mumbai,Continental,Female,IT,3.2,53.1,1.7,52.6,27345,50.0,3.8,Pending,10,24.3,12.5,66.1,4.0
+ORD1041,2024-02-11,Mumbai,North Indian,Male,Unknown,3.5,84.2,3.8,56.9,185268,47.0,4.3,Delivered,3,30.5,65.6,50.7,4.0
+ORD1089,2024-03-30,Bangalore,Chinese,Female,Marketing,6.7,67.6,5.7,76.7,187132,29.0,2.7,Delivered,2,27.8,107.0,80.0,4.0
+ORD1238,2024-08-26,Hyderabad,Chinese,Female,Operations,2.7,98.1,2.7,59.1,101912,39.0,2.1,Cancelled,1,28.4,37.1,85.9,5.0
+ORD1026,2024-01-27,Bangalore,South Indian,Female,Operations,7.9,78.3,5.8,80.9,29496,19.0,3.9,Delivered,12,24.8,79.9,71.3,5.0
+ORD1040,2024-02-10,Chennai,South Indian,Male,Operations,7.1,84.6,4.6,73.7,154153,26.0,4.0,Delivered,5,35.4,122.4,91.0,3.0
+ORD1141,2024-05-21,Hyderabad,Italian,Male,IT,5.1,76.5,1.4,76.8,23471,30.0,3.4,Delivered,2,25.2,70.8,85.4,4.0
+ORD1220,2024-08-08,Delhi,North Indian,Male,IT,3.2,94.7,2.2,66.3,86707,46.0,2.7,Delivered,9,23.0,73.1,93.7,5.0
+ORD1000,2024-01-01,Chennai,Continental,Male,HR,7.1,57.1,5.3,70.4,199980,51.0,4.0,Delivered,11,30.8,40.5,56.1,1.0
+ORD1282,2024-10-09,Mumbai,Italian,Male,IT,7.1,56.4,5.5,61.9,87263,25.0,1.8,Delivered,11,24.0,56.1,55.1,5.0
+ORD1100,2024-04-10,Chennai,Fast Food,Female,Marketing,6.0,65.7,5.1,73.0,85697,45.0,4.5,Delivered,11,31.8,61.1,70.6,4.0
+ORD1192,2024-07-11,Chennai,South Indian,Male,Finance,2.6,99.5,4.0,50.1,123302,44.0,3.9,Delivered,10,28.8,28.7,92.7,4.0
+ORD1288,2024-10-15,Bangalore,Chinese,Female,HR,5.2,59.0,4.2,53.4,163891,40.0,4.7,Delivered,2,16.9,132.7,90.0,2.0
+ORD1103,2024-04-13,Delhi,South Indian,Female,Operations,4.5,89.5,5.8,53.6,179803,57.0,3.9,Delivered,4,26.7,132.9,88.4,3.0
+ORD1171,2024-06-20,Mumbai,Chinese,Male,IT,6.0,86.6,4.9,71.4,114848,48.0,3.5,Cancelled,8,27.9,131.1,66.7,3.0
+ORD1098,2024-04-08,Delhi,Italian,Female,Marketing,6.2,50.3,2.0,60.6,162077,40.0,3.7,Delivered,7,24.2,59.0,93.3,4.0
+ORD1036,2024-02-06,Bangalore,South Indian,Male,HR,5.8,82.3,4.6,66.6,41727,38.0,3.4,Delivered,3,27.3,58.6,64.9,3.0
+ORD1061,2024-03-02,Chennai,South Indian,Male,Unknown,3.7,88.5,3.8,63.6,166451,30.0,3.3,Delivered,11,30.2,48.0,80.8,2.0
+ORD1150,2024-05-30,Mumbai,South Indian,Male,Marketing,3.5,71.3,5.2,47.5,73072,33.0,3.2,Delivered,2,26.4,133.5,63.3,5.0
+ORD1222,2024-08-10,Bangalore,Continental,Male,Marketing,5.3,72.9,4.2,55.6,70601,21.0,3.7,Delivered,12,24.6,30.1,65.0,4.0
+ORD1271,2024-09-28,Mumbai,Continental,Female,IT,6.4,77.8,2.6,70.2,85633,22.0,2.3,Delivered,2,33.4,90.0,56.7,4.0
+ORD1011,2024-01-12,Bangalore,North Indian,Male,IT,3.5,95.5,2.3,53.1,180811,25.0,3.2,Delivered,12,27.1,47.8,79.7,5.0
+ORD1062,2024-03-03,Hyderabad,Italian,Female,Finance,3.4,71.1,2.1,55.3,137322,44.0,3.5,Delivered,10,26.7,50.9,62.9,4.0
+ORD1200,2024-07-19,Delhi,South Indian,Female,IT,6.1,52.3,4.3,60.5,27896,37.0,4.4,Delivered,1,20.3,83.3,77.7,3.0
+ORD1281,2024-10-08,Hyderabad,Continental,Female,Finance,6.9,90.9,3.2,70.6,168066,44.0,4.2,Cancelled,11,30.2,86.2,85.7,4.0
+ORD1027,2024-01-28,Delhi,North Indian,Female,Finance,4.8,99.3,1.2,76.2,76447,48.0,4.6,Delivered,11,27.0,66.9,91.1,5.0
+ORD1240,2024-08-28,Bangalore,Fast Food,Female,Operations,2.2,94.7,1.6,52.7,110536,47.0,3.3,Delivered,9,25.5,56.0,89.0,4.0
+ORD1004,2024-01-05,Hyderabad,Continental,Male,HR,2.6,81.7,4.2,53.8,139246,32.0,5.0,Delivered,5,31.6,67.6,65.3,1.0
+ORD1122,2024-05-02,Hyderabad,Italian,Male,Operations,6.2,77.8,1.8,79.8,185009,19.0,2.1,Delivered,8,22.3,5.0,86.1,1.0
+ORD1032,2024-02-02,Chennai,Continental,Male,Operations,6.0,87.1,4.8,73.1,173728,43.0,3.9,Delivered,8,33.2,89.7,56.8,3.0
+ORD1224,2024-08-12,Mumbai,North Indian,Male,IT,6.2,63.6,1.9,69.5,131487,26.0,4.5,Delivered,12,32.1,130.0,85.4,5.0
+ORD1162,2024-06-11,Hyderabad,Fast Food,Male,Operations,4.5,54.4,5.0,47.2,153168,30.0,2.6,Delivered,11,27.7,122.7,54.1,5.0
+ORD1230,2024-08-18,Delhi,North Indian,Female,Marketing,7.0,96.6,3.4,85.7,142788,49.0,2.9,Delivered,8,24.4,114.0,60.5,4.0
+ORD1268,2024-09-25,Hyderabad,South Indian,Male,Unknown,4.7,61.4,2.7,58.7,131672,40.0,4.1,Delivered,7,27.5,36.8,70.0,4.0
+ORD1215,2024-08-03,Bangalore,Chinese,Female,Operations,2.7,94.9,3.8,61.2,144302,20.0,5.0,Pending,5,28.3,0.0,92.7,4.0
+ORD1135,2024-05-15,Bangalore,South Indian,Female,HR,6.8,82.2,1.8,77.3,50447,30.0,4.2,Delivered,7,21.0,141.2,66.4,3.0
+ORD1128,2024-05-08,Hyderabad,North Indian,Male,Operations,7.5,55.8,4.1,73.3,167256,34.0,3.6,Delivered,9,30.8,87.8,80.6,5.0
+ORD1008,2024-01-09,Bangalore,Fast Food,Female,Marketing,1.2,93.8,5.1,43.4,64638,30.0,3.9,Delivered,12,28.2,0.0,82.7,4.0
+ORD1070,2024-03-11,Mumbai,Continental,Male,IT,2.6,71.9,3.3,44.3,29596,39.0,3.3,Delivered,4,27.3,76.2,63.5,4.0
+ORD1277,2024-10-04,Bangalore,South Indian,Male,IT,7.3,78.0,1.5,85.0,94071,23.0,3.2,Delivered,8,27.0,90.2,76.9,4.0
+ORD1064,2024-03-05,Delhi,Fast Food,Female,HR,5.3,97.9,4.3,69.3,120082,27.0,3.8,Delivered,10,21.5,94.8,54.1,2.0
+ORD1044,2024-02-14,Delhi,Fast Food,Male,HR,6.2,90.8,1.8,74.8,176570,29.0,3.9,Delivered,2,21.4,0.0,93.6,3.0
+ORD1014,2024-01-15,Chennai,North Indian,Male,Unknown,3.3,91.3,3.3,66.2,23754,30.0,5.0,Delivered,10,31.5,97.0,71.8,4.0
+ORD1156,2024-06-05,Chennai,Continental,Male,Finance,4.0,59.3,3.6,54.0,90553,15.0,4.3,Delivered,5,25.5,43.8,60.2,4.0
+ORD1250,2024-09-07,Mumbai,Chinese,Male,Finance,4.9,86.7,5.8,50.6,22336,24.0,3.4,Delivered,2,25.9,40.2,52.9,1.0
+ORD1123,2024-05-03,Bangalore,North Indian,Female,Unknown,3.9,73.7,3.2,52.3,119134,30.0,3.8,Delivered,3,21.8,192.2,59.9,3.0
+ORD1289,2024-10-16,Chennai,South Indian,Male,Marketing,3.4,87.7,2.6,66.2,83870,43.0,2.5,Delivered,4,31.0,156.5,68.6,5.0
+ORD1216,2024-08-04,Chennai,North Indian,Female,Operations,2.2,73.2,3.7,48.8,165361,45.0,3.9,Delivered,9,29.0,38.3,87.1,3.0
+ORD1153,2024-06-02,Mumbai,South Indian,Male,Marketing,1.5,73.1,4.8,37.7,103369,20.0,4.4,Delivered,10,29.1,61.4,71.1,2.0
+ORD1023,2024-01-24,Mumbai,Chinese,Male,HR,7.1,98.7,2.2,84.7,49725,46.0,3.0,Cancelled,1,22.8,67.4,88.5,5.0
+ORD1278,2024-10-05,Bangalore,South Indian,Female,IT,4.7,55.8,4.3,51.2,50651,30.0,4.4,Delivered,12,22.4,99.2,63.3,4.0
+ORD1110,2024-04-20,Mumbai,Continental,Male,HR,4.8,88.0,5.7,69.4,62092,36.0,3.9,Delivered,7,25.4,52.1,87.4,5.0
+ORD1081,2024-03-22,Mumbai,Italian,Female,Unknown,8.0,58.1,1.7,79.0,112197,30.0,3.1,Delivered,6,31.7,72.1,77.4,3.0
+ORD1236,2024-08-24,Mumbai,Continental,Female,Finance,1.2,52.4,2.3,41.4,49055,15.0,4.0,Delivered,2,32.0,82.0,94.4,5.0
+ORD1207,2024-07-26,Bangalore,North Indian,Female,IT,6.4,60.8,2.9,64.0,60785,52.0,3.1,Delivered,2,26.9,98.8,66.3,2.0
+ORD1212,2024-07-31,Bangalore,South Indian,Female,Operations,6.9,75.8,4.5,69.2,37073,33.0,3.7,Delivered,8,23.6,94.2,52.7,5.0
+ORD1039,2024-02-09,Delhi,Fast Food,Female,Operations,1.2,95.0,5.3,40.8,88056,35.0,3.9,Delivered,6,24.1,83.3,54.5,5.0
+ORD1287,2024-10-14,Hyderabad,South Indian,Male,Finance,4.5,69.6,2.5,72.1,38708,40.0,3.5,Cancelled,6,25.3,61.1,69.4,5.0
+ORD1248,2024-09-05,Chennai,Italian,Female,Marketing,7.8,77.2,1.8,90.8,184437,27.0,4.4,Delivered,1,26.2,98.8,68.9,5.0
+ORD1251,2024-09-08,Chennai,South Indian,Female,HR,7.0,76.1,2.3,80.2,82032,35.0,3.4,Cancelled,1,34.6,104.7,70.2,2.0
+ORD1201,2024-07-20,Bangalore,Continental,Female,Unknown,5.2,69.2,1.7,74.2,184044,44.0,5.0,Delivered,4,27.2,111.2,92.3,4.0
+ORD1161,2024-06-10,Mumbai,Chinese,Female,Operations,7.2,52.6,4.0,68.9,62963,36.0,3.4,Pending,2,29.1,65.0,75.1,4.0
+ORD1043,2024-02-13,Delhi,Continental,Male,IT,1.7,76.5,3.7,50.5,100102,39.0,3.2,Delivered,6,29.1,118.3,89.2,1.0
+ORD1217,2024-08-05,Chennai,Chinese,Male,Finance,2.3,81.1,1.2,60.1,135359,32.0,3.5,Delivered,10,29.1,96.8,54.1,4.0
+ORD1190,2024-07-09,Delhi,South Indian,Male,HR,7.7,80.0,1.0,91.9,112573,37.0,4.0,Delivered,9,23.7,57.9,67.5,4.0
+ORD1259,2024-09-16,Delhi,Continental,Male,Marketing,3.4,55.3,4.8,45.7,65232,36.0,4.1,Delivered,4,30.0,125.8,79.7,4.0
+ORD1105,2024-04-15,Hyderabad,North Indian,Female,HR,3.2,76.1,5.5,43.4,130384,56.0,4.2,Delivered,6,27.5,45.1,67.2,5.0
+ORD1053,2024-02-23,Hyderabad,Italian,Female,Unknown,3.5,63.3,5.6,49.1,161877,46.0,4.2,Delivered,12,25.7,39.9,74.0,4.0
+ORD1001,2024-01-02,Hyderabad,Continental,Male,Operations,4.6,70.3,6.0,50.4,105457,39.0,3.6,Delivered,2,27.2,83.6,53.1,3.0
+ORD1049,2024-02-19,Chennai,Chinese,Female,IT,4.7,86.0,3.7,71.4,137235,33.0,5.0,Delivered,6,26.8,109.6,67.9,4.0
+ORD1080,2024-03-21,Hyderabad,Fast Food,Male,Finance,5.9,77.0,4.7,76.6,100073,50.0,3.3,Delivered,3,32.9,22.5,57.9,3.0
+ORD1205,2024-07-24,Bangalore,Continental,Female,Marketing,1.2,90.0,2.3,62.1,25347,24.0,3.9,Delivered,12,20.0,55.0,70.0,4.0
+ORD1034,2024-02-04,Bangalore,South Indian,Male,IT,2.0,70.1,2.6,47.3,111396,45.0,3.7,Delivered,5,27.2,81.3,55.7,2.0
+ORD1263,2024-09-20,Mumbai,Continental,Female,IT,6.9,98.1,4.0,85.4,199017,17.0,3.3,Delivered,10,26.0,80.6,94.9,4.0
+ORD1052,2024-02-22,Chennai,South Indian,Male,IT,4.3,63.2,2.5,59.6,39033,22.0,3.5,Delivered,1,28.7,2.3,80.3,5.0
+ORD1264,2024-09-21,Chennai,Continental,Female,Finance,5.1,73.3,5.7,59.1,33140,30.0,4.8,Cancelled,10,30.6,67.0,88.1,4.0
+ORD1241,2024-08-29,Mumbai,Fast Food,Female,Marketing,1.2,99.6,1.7,41.9,26304,36.0,4.0,Delivered,4,23.6,214.0,55.9,1.0
+ORD1013,2024-01-14,Delhi,South Indian,Female,Unknown,1.9,66.8,1.8,51.7,128821,26.0,4.5,Delivered,2,25.7,101.3,70.1,4.0
+ORD1273,2024-09-30,Chennai,Chinese,Female,Finance,3.3,62.9,6.0,40.6,98258,42.0,4.1,Delivered,7,30.8,104.2,78.1,4.0
+ORD1166,2024-06-15,Chennai,Fast Food,Male,Finance,6.3,63.6,2.8,72.8,170787,30.0,4.0,Delivered,6,27.7,122.3,66.6,4.0
+ORD1134,2024-05-14,Bangalore,Fast Food,Female,Finance,6.6,76.1,1.2,72.9,69811,25.0,4.1,Cancelled,10,24.6,103.5,51.5,5.0
+ORD1270,2024-09-27,Bangalore,Chinese,Female,HR,4.5,50.1,4.0,52.7,141673,35.0,4.4,Delivered,2,20.7,109.9,64.5,4.0
+ORD1243,2024-08-31,Bangalore,North Indian,Female,Marketing,6.5,94.1,5.7,73.5,180372,55.0,5.0,Delivered,4,24.8,108.8,85.5,4.0
+ORD1050,2024-02-20,Chennai,Fast Food,Female,Marketing,2.6,55.3,1.1,46.7,198773,38.0,3.3,Delivered,10,29.1,0.0,53.6,4.0
+ORD1174,2024-06-23,Chennai,Chinese,Male,IT,1.7,64.9,4.2,43.9,63619,34.0,4.7,Pending,12,33.1,29.1,77.9,5.0
+ORD1189,2024-07-08,Bangalore,North Indian,Female,IT,6.8,94.2,5.3,74.7,188553,46.0,3.5,Delivered,9,21.9,94.5,74.2,4.0
+ORD1187,2024-07-06,Mumbai,South Indian,Female,Marketing,6.0,79.4,2.6,72.3,174324,23.0,4.4,Delivered,6,26.7,57.8,55.2,5.0
+ORD1169,2024-06-18,Chennai,Continental,Female,Finance,2.0,66.8,5.2,35.4,25105,44.0,3.3,Delivered,7,26.9,74.7,67.1,4.0
+ORD1058,2024-02-28,Chennai,Continental,Female,HR,4.9,78.7,4.0,66.2,39873,30.0,4.1,Delivered,2,36.3,94.5,74.3,4.0
+ORD1048,2024-02-18,Delhi,Fast Food,Male,Operations,1.6,74.9,3.3,47.4,188972,40.0,4.6,Delivered,6,22.9,97.8,78.0,4.0
+ORD1235,2024-08-23,Delhi,Italian,Female,Operations,5.1,84.8,3.9,66.4,82292,39.0,4.6,Cancelled,4,19.1,32.8,94.3,5.0
+ORD1252,2024-09-09,Chennai,Continental,Male,Marketing,4.7,93.4,4.3,67.8,117852,31.0,4.2,Delivered,6,24.8,58.9,66.3,3.0
+ORD1021,2024-01-22,Hyderabad,Italian,Male,Operations,3.6,93.1,5.2,51.1,103986,21.0,4.5,Delivered,9,32.5,57.8,60.7,5.0
+ORD1160,2024-06-09,Bangalore,Fast Food,Male,IT,2.2,50.5,4.0,30.0,42436,47.0,4.8,Delivered,12,30.1,92.7,88.1,4.0
+ORD1276,2024-10-03,Hyderabad,North Indian,Female,HR,2.9,66.3,2.4,46.1,113269,38.0,3.2,Delivered,7,28.7,135.5,67.1,4.0
+ORD1191,2024-07-10,Hyderabad,Continental,Male,Operations,3.4,95.2,3.9,67.8,160629,27.0,3.9,Delivered,1,25.7,72.5,66.7,2.0
+ORD1293,2024-10-20,Chennai,Continental,Female,IT,6.0,97.4,2.9,81.9,182005,15.0,4.3,Delivered,8,26.4,103.2,64.1,4.0
+ORD1257,2024-09-14,Hyderabad,Fast Food,Male,Unknown,4.0,61.9,5.2,40.2,75718,35.0,3.7,Delivered,11,26.2,96.0,82.7,3.0
+ORD1149,2024-05-29,Chennai,Fast Food,Male,IT,5.0,76.0,3.1,75.6,186597,30.0,4.2,Pending,10,28.5,91.2,93.5,5.0
+ORD1130,2024-05-10,Bangalore,Italian,Male,Marketing,1.3,89.8,3.4,45.5,41621,37.0,2.3,Cancelled,5,25.4,53.6,54.4,4.0
+ORD1099,2024-04-09,Mumbai,North Indian,Female,Finance,4.7,55.2,4.5,58.9,129079,44.0,3.9,Delivered,5,29.4,121.2,81.1,5.0
+ORD1087,2024-03-28,Mumbai,South Indian,Female,IT,4.4,73.7,2.7,66.5,47766,24.0,4.4,Delivered,11,30.0,32.4,78.7,4.0
+ORD1214,2024-08-02,Bangalore,North Indian,Male,HR,1.9,99.8,5.3,42.1,50682,33.0,4.0,Delivered,3,23.1,120.6,93.6,5.0
+ORD1121,2024-05-01,Chennai,Continental,Male,Marketing,7.0,100.0,1.2,92.4,96256,43.0,3.5,Delivered,11,27.6,117.2,60.4,4.0
+ORD1020,2024-01-21,Delhi,South Indian,Female,HR,2.1,68.1,2.5,46.5,169109,45.0,2.8,Cancelled,4,24.0,103.5,94.1,3.0
+ORD1188,2024-07-07,Mumbai,Chinese,Male,Operations,5.2,99.1,3.0,70.1,152503,41.0,3.5,Delivered,3,30.9,105.9,60.6,5.0
+ORD1071,2024-03-12,Hyderabad,North Indian,Male,Marketing,3.6,95.8,4.4,56.8,127539,39.0,3.9,Delivered,5,31.1,74.9,51.3,5.0
+ORD1106,2024-04-16,Bangalore,South Indian,Male,HR,5.2,54.3,4.0,58.4,88926,31.0,4.2,Delivered,1,28.3,54.1,66.2,5.0
+ORD1102,2024-04-12,Chennai,North Indian,Female,Unknown,1.6,98.1,4.4,48.0,165298,41.0,4.4,Delivered,9,25.6,70.0,95.0,5.0
